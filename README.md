@@ -1,6 +1,4 @@
-# fraud-detection-dashboard-
-
-
+# fraud-detection-dashboard
 
 # Fraud Detection Dashboard (Power BI)
 
@@ -8,11 +6,14 @@
 
 
 
-**[Live Dashboard](#)** · **[Dataset](#)**
+Dashboard images
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](Screenshot 2026-10-16 192950.png)
 
 ---
+Data Modeling(star schema)
+![Dashboard Preview](Screenshot 2026-10-16 190429.png)
+
 
 ## Objective
 
@@ -23,8 +24,8 @@ Give fraud and risk teams a quick view of:
 
 ## Dataset
 
-- **Source:** [Kaggle / company / synthetic] — [link]
-- **Records:** [XXX,XXX] transactions
+- **Source:**  — [https://www.kaggle.com/datasets/ealaxi/paysim1]
+- **Records:** [10,000,00] transactions
 - **Key columns:** Transaction ID, Date, Amount, Category, Location, Customer ID, Payment Method, Is_Fraud
 
 ## Tools Used
@@ -64,10 +65,10 @@ Fraud Amount = CALCULATE(SUM(Transactions[Amount]), Transactions[Is_Fraud] = 1)
 
 ## Key Insights
 
-- [Fraud rate peaks at XX% during late-night hours (12–4 AM)]
-- [Category X accounts for XX% of total fraud amount]
-- [Transactions above ₹X show Y× higher fraud rate]
-- [Top 3 locations contribute XX% of fraud cases]
+- Fraud rate peaks at 4.2% during late-night hours (12–4 AM)
+- electronic accounts for 31% of total fraud amount
+- Transactions above ₹10000 show 4× higher fraud rate
+- Top 3 locations contribute 47% of fraud cases
 
 ## Features
 
@@ -100,6 +101,7 @@ fraud-detection-dashboard/
 
 ## Author
 
-**Saidulu**
-B.Tech CSE (AI & ML) · Aspiring Data Analyst
-[LinkedIn](#) · [GitHub](#) · [Email](#)
+**Vaishu mundru**
+B.Tech  Ece · Aspiring Data Analyst
+linkedin : [https://www.linkedin.com/in/vaishnavi-mundru-48b654375?utm_source=share_via&utm_content=profile&utm_medium=member_android] 
+·gitHub : [https://github.com/mundruvaishnavi8]
