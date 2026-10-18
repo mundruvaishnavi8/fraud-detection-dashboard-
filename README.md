@@ -104,7 +104,7 @@ fraud-detection-dashboard/
 
 ## Author
 
-**Vaishu mundru**
-B.Tech  Ece · Aspiring Data Analyst
+**Vaishnavi Mundru**
+B.Tech  ECE · Aspiring Data Analyst
 linkedin : [https://www.linkedin.com/in/vaishnavi-mundru-48b654375?utm_source=share_via&utm_content=profile&utm_medium=member_android] 
 ·gitHub : [https://github.com/mundruvaishnavi8]
