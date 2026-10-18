@@ -8,7 +8,7 @@
 
 ## Dashboard images
 
-![Dashboard Preview](<Screenshot 2026-10-16 190306.png>)
+![Dashboard Preview](<Screenshot 2026-10-18 190306.png>)
 
 ---
 ## Data Modeling(star schema)
